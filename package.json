@@ -1,0 +1,29 @@
+{
+  "name": "coin_data_collector",
+  "version": "1.0.0",
+  "description": "machine learning icos data",
+  "main": "collector",
+  "dependencies": {
+    "axios": "^0.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "./collector save"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emroy/icos-data-collector.git"
+  },
+  "keywords": [
+    "icos",
+    "deep-learning",
+    "data",
+    "cryptocurrency"
+  ],
+  "author": "emroy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emroy/icos-data-collector/issues"
+  },
+  "homepage": "https://github.com/emroy/icos-data-collector#readme"
+}
